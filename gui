@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Principal</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #a8a8a8;
+        }
+        .topnav {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            background-color: #333;
+            padding: 20px;
+            color: #fff;
+        }
+        .topnav a {
+            color: #fff;
+            text-decoration: none;
+            display: inline-block;
+            padding: 10px;
+            margin-right: 10px;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+        .topnav a:hover {
+            background-color: #5f5f5f;
+        }
+        .content {
+            margin-top: 60px;
+            padding: 20px;
+        }
+        img {
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div class="topnav">
+        <a href="site teste.html">Menu Principal</a>
+        <a href="portifolios e projetos.html">Portfolio e Projeto</a>
+        <a href="curriculo.html">Meu curriculo</a>
+        <a href="novidades.html">Novidades</a></h1>
+        <a href="página de contato.html">Página de Contato</a>
+    </div>
+    <div class="content">
+    </div>
+</body>
+</html>
+
+    <div style="background-color:#333">
+        <h1 style="color:white; text-align: center;">Menu Principal</h1></div>
+       <h1><p style="text-align: center;">Bem vindo ao site sobre mim</h1></p>
+       <div style="display: flex; justify-content: center;">
+        <img src="site teste.png" width="200" height="200" alt="guilherme">
+    </div>
+    
+        <h1><p style="text-align: center;">Este sou eu</h1></p>
+        <ul>
+       <li><p><h3>Meu nome completo é Guilherme da Silva Rosas</h3></p></li>
+        <li><p><h3>Tenho 18 anos e nasci dia 02/02/2006</h3></p></li>
+        <li><p><h3>Gosto muito de musica e de jogar qualquer tipo de jogo</h3></p></li>
+        <li><p><h3> Meu time favorito é o botafogo</h3></p></li>
+        <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/1200px-Botafogo_de_Futebol_e_Regatas_logo.svg.png" height="100" width="100" alt="botafogo"></p>
+       </div>
+    </html>
